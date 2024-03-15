@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Peyton Touma</h1>
 <h3 align="center">A Full Stack Devolper from Los Angeles California, open for work and seeking new opportunities!</h3>
-<h4 align="center">Currently working on a 3d Multiplayer Shooter using three.js</h4>
+<h4 align="center">Currently working on A Full-Stack Webpage built for my personal business</h4>
 <img align="right" alt="Coding" width="400" height="350px" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ptoum21&label=Profile%20views&color=0e75b6&style=flat" alt="ptoum21" /> </p>
