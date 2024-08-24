@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Peyton Touma</h1>
 <h3 align="center">A Full Stack Devolper from Los Angeles California, open for work and seeking new opportunities!</h3>
-<h5 align="center">Employer: Code Instructor at Code Ninjas</h5>
+<h5 align="center">Employer: Software Engineer at Impact Capitol DC</h5>
 <h4 align="center">Currently working on A Full-Stack Webpage built for my personal business, GD ATMS as well as a react native application with fellow developers @pasha123 & @salgonzalez </h4>
 <div>
   <img align="center" alt="Coding" width="auto" height="auto" src="https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af" />
