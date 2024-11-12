@@ -1,7 +1,7 @@
 [![GitHub Daily Streak](https://streak-stats.demolab.com?user=pToum21&theme=one-dark-pro&border_radius=5.6&date_format=M%20j%5B%2C%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 
 <h1 align="center">Hi 👋, I'm Peyton Touma</h1>
-<h3 align="center">A Full Stack Devolper from Los Angeles California, open for work!</h3>
+<h3 align="center">A Full Stack Devolper from Washington DC, open for work!</h3>
 <h5 align="center">Employer: Impact Capitol DC</h5>
 <h4 align="center">Currently working for Impact Capitol DC as a Software Engineer / UX Designer</h4>
 <div>
