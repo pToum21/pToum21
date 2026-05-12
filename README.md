@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peyton Touma</h1>
 <h3 align="center">A Full Stack Devolper from Washington DC, open for work!</h3>
-<h5 align="center">Employer: Impact Capitol DC</h5>
-<h4 align="center">Currently working for Impact Capitol DC as a Software Engineer / UX Designer</h4>
+<h5 align="center">Employer: Smithbucklin / 360 Live Media</h5>
+<h4 align="center">Currently working for 360 Live Media as a Software Engineer / UX Designer</h4>
 <div>
   <img align="center" alt="Coding" width="auto" height="auto" src="https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af" />
 </div>
